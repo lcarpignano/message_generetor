@@ -1,0 +1,34 @@
+html{
+    font-size: 62.5%;
+    font-family: 'Sriracha', cursive;
+}
+
+header{
+    height: 10vh;
+}
+
+main{
+    height: 80vh;
+    background-image: url(/img/deep-forest-pathway-in-the-sunshine-wall-mural.jpg);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+   margin-top: 20rem;
+   width: 15rem;
+   height: 5rem; 
+   border: 0.1rem solid brown;
+   border-radius: 5rem;
+   font-size: 1.8rem;
+   color: brown;
+   background-color: silver;
+
+}
+
+footer{
+    height: 10vh;
+}
